@@ -1,0 +1,9 @@
+name: githubworkflows
+on:
+  push:
+
+jobs:
+  myjobs1:
+    runs-on: ubuntu-latest
+
+
